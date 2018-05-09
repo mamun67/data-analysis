@@ -5,8 +5,8 @@
 * Data Extraction/Collection
 * Data Exploration and transformation
 * Predictive modeling
-* Algorithmic Selection
-* Training Model
+	- Algorithmic Selection
+	- Training Model
 
 ## Model Building Steps
 
